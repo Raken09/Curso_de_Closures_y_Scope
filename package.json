@@ -1,0 +1,19 @@
+{
+  "name": "5.curso_de_closures_y_scope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hola.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhaegar09/5.Curso_de_Closures_y_Scope.git"
+  },
+  "author": "Edward Reina Hortua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rhaegar09/5.Curso_de_Closures_y_Scope/issues"
+  },
+  "homepage": "https://github.com/Rhaegar09/5.Curso_de_Closures_y_Scope#readme"
+}
